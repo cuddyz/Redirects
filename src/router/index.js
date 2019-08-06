@@ -4,7 +4,8 @@ import Landing from '@/components/Landing'
 
 Vue.use(Router)
 
-export default new Router({
+let routeConfig = {
+  mode: 'history',
   routes: [
     {
       path: '*',
@@ -12,4 +13,8 @@ export default new Router({
       component: Landing
     }
   ]
-})
+}
+
+const router = new Router(routeConfig)
+
+export default router
