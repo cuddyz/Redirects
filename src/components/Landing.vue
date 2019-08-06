@@ -56,15 +56,16 @@ export default {
   h3 {
     font-weight: normal;
     font-size: 1.4em;
+    margin-top: 0;
   }
 
-a {
-  color: #2FAAE4;
-  text-decoration: none;
-  font-size: 1.2em;
-}
+  a {
+    color: #2FAAE4;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
 
-a:hover {
-  color: #49C4FE;
-}
+  a:hover {
+    color: #49C4FE;
+  }
 </style>
