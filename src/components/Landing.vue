@@ -19,6 +19,10 @@
         <a target="_blank" href="https://treythetrainer.com">https://cuddy.dev/trey</a>
       </div>
       <div>
+        <h3>Accounting Office</h3>
+        <a target="_blank" href="https://gielowkrebs.com/">https://cuddy.dev/accounting</a>
+      </div>
+      <div>
         <h3>Restaurant Finder</h3>
         <a target="_blank" href="https://gotta-eat.net">https://cuddy.dev/eat</a>
       </div>
