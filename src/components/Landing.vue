@@ -26,6 +26,14 @@
         <h3>Restaurant Finder</h3>
         <a target="_blank" href="https://gotta-eat.net">https://cuddy.dev/eat</a>
       </div>
+      <div>
+        <h3>Gifts for Kelly</h3>
+        <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/F9K5235HCTQT">https://cuddy.dev/gifts-kelly</a>
+      </div>
+      <div>
+        <h3>Gifts for Zack</h3>
+        <a target="_blank" href="https://www.amazon.com/hz/wishlist/ls/2AGAJDPOFDOUJ">https://cuddy.dev/gifts-zack</a>
+      </div>
     </section>
   </article>
 </template>
